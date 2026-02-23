@@ -90,9 +90,9 @@ const Hero = () => {
                             
                             {/* Buttons ở trên */}
                             <div className="flex flex-col sm:flex-row gap-4">
-                                <a href="#work-experience" className="px-8 py-3.5 font-bold text-white rounded-lg transition-transform duration-300 hover:scale-105 text-lg"
+                                <a href="#projects" className="px-8 py-3.5 font-bold text-white rounded-lg transition-transform duration-300 hover:scale-105 text-lg"
                                     style={{ background: 'linear-gradient(to right, #007CF0, #00DFD8)' }}>
-                                    View My Experience
+                                    View My Projects
                                 </a>
                                 <a
                                     href={`${import.meta.env.BASE_URL}resume.pdf`} 
