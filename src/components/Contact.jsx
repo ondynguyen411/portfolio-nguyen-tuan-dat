@@ -39,8 +39,9 @@ const Contact = () => {
                         </a>
                     ))}
                 </div>
-                <p className="mt-12 text-sm text-slate-500">
-                    © 2026 Nguyen Tuan Dat. Built with React & Tailwind CSS.
+                <p className="mt-12 text-sm text-slate-500 leading-relaxed">
+                    © 2026 Nguyen Tuan Dat. Built with React & Tailwind CSS. <br />
+                    Template originally designed by <a href="https://github.com/uycung" target="_blank" rel="noopener noreferrer" className="underline hover:text-cyan-400 transition-colors">Uy Cung</a>.
                 </p>
             </div>
         </footer>
