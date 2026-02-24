@@ -9,7 +9,7 @@ const contactLinks = [
 ];
 
 const Hero = () => {
-    const titles = ["Business Analyst", "Welcome!!"];
+    const titles = ["Business Analyst", "Product Owner", "Tech Enthusiast"];
     const [currentTitleIndex, setCurrentTitleIndex] = useState(0);
 
     useEffect(() => {
