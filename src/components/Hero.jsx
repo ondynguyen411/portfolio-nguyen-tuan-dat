@@ -10,7 +10,7 @@ const contactLinks = [
 
 const Hero = () => {
     // UPDATED TITLES
-    const titles = ["Social Commerce Executive", "Livestream Operator", "Data-Driven Innovator"];
+    const titles = ["Social KAM", "Livestream Operator", "Data-Driven Innovator"];
     const [currentTitleIndex, setCurrentTitleIndex] = useState(0);
 
     useEffect(() => {
