@@ -7,7 +7,7 @@ const experienceData = [
         company: "Intrepid Asia",
         time: "04/2026 - Present",
         responsibilities: [
-            "Coordinated cross-functional production teams—including hosts, brand representatives, and technical staff—to execute flawless livestream campaigns across platforms.",
+            "Coordinated cross-functional production teams to execute flawless livestream campaigns across platforms.",
             "Configured and optimized live broadcast setups utilizing OBS Studio, professional camera equipment, and network monitoring tools to guarantee high-quality streaming",
             "Managed real-time troubleshooting and operational adjustments during live sessions, adapting instantly to technical constraints and audience dynamics to maintain optimal viewer engagement."
         ],
