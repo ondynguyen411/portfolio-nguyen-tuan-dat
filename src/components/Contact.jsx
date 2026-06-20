@@ -4,15 +4,15 @@ import { Mail, Linkedin, Github } from 'lucide-react';
 const contactLinks = [
     { 
         icon: <Mail />, 
-        href: "mailto:tuandatnguyen411@gmail.com" // Updated to your email 
+        href: "mailto:tuandatnguyen411@gmail.com"
     },
     { 
         icon: <Linkedin />, 
-        href: "https://www.linkedin.com/in/dat-ondy-nguyen/" // Updated to your LinkedIn 
+        href: "https://www.linkedin.com/in/dat-ondy-nguyen/"
     },
     { 
         icon: <Github />, 
-        href: "https://github.com/tuandatnguyen411" // Placeholder for your GitHub 
+        href: "https://github.com/tuandatnguyen411" 
     },
 ];
 
@@ -22,9 +22,10 @@ const Contact = () => {
             <div className="max-w-lg mx-auto text-center">
                 <h3 className="text-3xl font-bold text-white mb-4">Let's Connect</h3>
                 <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-cyan-400 mx-auto mb-8"></div>
+                {/* UPDATED PITCH */}
                 <p className="text-slate-300 mb-8">
-                    I'm a final-year Management Information Systems student passionate about building user-centric products. 
-                    If you're looking for a dedicated Business Analyst, let's chat.
+                    I'm an MIS student blending technical operations with hands-on digital retail experience. 
+                    If you're looking for a dedicated Social Key Account Executive or Livestream Operator, let's connect!
                 </p>
                 <div className="flex justify-center gap-6">
                     {contactLinks.map((link, index) => (
