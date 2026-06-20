@@ -87,8 +87,8 @@ const Hero = () => {
                                     View My Projects
                                 </a>
                                 <a
-                                    href={`${import.meta.env.BASE_URL}resume.pdf`} 
-                                    download
+                                    href={`${import.meta.env.BASE_URL}Resume_Nguyen_Tuan_Dat.pdf`} 
+                                    download="Resume_Nguyen Tuan Dat.pdf"
                                     className="px-8 py-3.5 font-bold text-white bg-slate-800 border border-slate-600 rounded-lg flex items-center gap-2 transition-colors duration-300 hover:bg-slate-700 text-lg"
                                 >
                                     <Download size={22} />
