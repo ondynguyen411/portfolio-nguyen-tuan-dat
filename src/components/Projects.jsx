@@ -7,9 +7,9 @@ const experienceData = [
         company: "Intrepid Asia",
         time: "04/2026 - Present",
         responsibilities: [
-            "Mastered the operational mechanisms of the live production team in a high-paced agency environment.",
-            "Set up and optimized visual quality and network stability for live broadcast sessions.",
-            "Coordinated directly with operators and stakeholders to manage real-time issues, ensuring optimal performance for every live session."
+            "Coordinated cross-functional production teams—including hosts, brand representatives, and technical staff—to execute flawless livestream campaigns across platforms.",
+            "Configured and optimized live broadcast setups utilizing OBS Studio, professional camera equipment, and network monitoring tools to guarantee high-quality streaming",
+            "Managed real-time troubleshooting and operational adjustments during live sessions, adapting instantly to technical constraints and audience dynamics to maintain optimal viewer engagement."
         ],
         skills: ["Live Production", "OBS Setup", "Stakeholder Management", "Cross-functional Coordination"],
         link: "", 
@@ -20,12 +20,12 @@ const experienceData = [
         company: `Thanh Thúy Bedding store`,
         time: "04/2026 - Present",
         responsibilities: [
-            "Manage end-to-end digital storefront operations, gaining practical expertise in seller mechanics and platform algorithms.",
-            "Plan and execute monthly promotional campaigns, optimizing pricing strategies to drive organic traffic.",
-            "Track and analyze daily performance metrics including NMV, CTR, and Conversion Rates to continuously refine sales tactics."
+            "Direct end-to-end digital storefront operations, demonstrating deep practical expertise in Shopee Seller Center mechanics, product SEO optimization, and marketplace algorithms.",
+            "Engineer monthly promotional campaigns utilizing native marketing tools to maximize organic traffic and boost overall sales volume.",
+            "Analyze daily performance dashboards, tracking key metrics NMV, CTR, CR... to continuously refine pricing strategies and inventory management."
         ],
         skills: ["Shopee Operations", "Performance Tracking", "Campaign Execution", "E-commerce Strategy"],
-        link: "https://shopee.vn/dat411200loooo?categoryId=100636&entryPoint=ShopByPDP&itemId=29644500097&upstream=search",
+        link: "https://shopee.vn/dat411200loooo",
         buttonText: "Visit My Store"
     },
     {
