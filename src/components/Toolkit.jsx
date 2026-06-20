@@ -1,24 +1,24 @@
 import React from 'react';
 
+// UPDATED TOOLKIT DATA
 const toolkitData = {
-    "Analysis & Strategy": [
-        "Requirements Elicitation", // 
-        "Software Requirements Specification (SRS)", // 
-        "User Stories & Acceptance Criteria", // 
-        "Stakeholder Management" // 
+    "Social Commerce & Platforms": [
+        "Livestream Operations & Setup",
+        "E-commerce Store Management",
+        "Campaign & Promotion Execution",
+        "Cross-functional Coordination" 
     ],
-    "Design & Modeling": [
-        "UML Modeling ", // 
-        "Business Process Modeling", // 
-        "Wireframing & Prototyping", // 
-        "ERD Database Design", // 
-        "Draw.io & UI/UX Principles" // 
+    "Data Analysis & Tracking": [
+        "Advanced Excel (MOS Certified)",
+        "Performance Metrics (NMV, CTR, CR)",
+        "Data Querying (SQL)",
+        "Reporting & Analytics Dashboards" 
     ],
-    "Automation & Technical": [
-        "n8n & Power Automate", // [cite: 11, 19]
-        "Gen AI (Gemini API Integration)", // 
-        "SQL & Data Querying", // 
-        "Advanced Excel (MOS Certified)" // 
+    "Operations & Automation": [
+        "Workflow Automation (n8n, Apps Script)",
+        "Google Workspace Integrations",
+        "Standard Operating Procedures (SOP)",
+        "Process Optimization" 
     ],
 };
 
