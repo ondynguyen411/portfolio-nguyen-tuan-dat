@@ -33,8 +33,9 @@ const experienceData = [
         company: "Freelance (Part-time)",
         time: "08/2022 - 04/2023",
         responsibilities: [
-            "Operated a cross-border e-commerce model, identifying trending products and setting up digital storefronts.",
-            "Gained foundational experience in digital retail workflows, customer communication, and online order fulfillment."
+            "Managed a cross-border digital retail model, conducting extensive market research to identify trending product niches and establish competitive pricing strategies.",
+            "Designed and optimized e-commerce storefronts to ensure seamless user checkout experiences and maximize visitor-to-buyer conversion rates.",
+            "Coordinated directly with international suppliers to ensure timely order fulfillment while actively managing customer inquiries to build brand trust and resolve disputes."
         ],
         skills: ["Dropshipping", "Product Research", "Order Fulfillment"],
         link: "", 
