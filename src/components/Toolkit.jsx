@@ -16,8 +16,7 @@ const toolkitData = {
     ],
     "Operations & Automation": [
         "Workflow Automation (n8n, Apps Script)",
-        "Google Workspace Integrations",
-        "Standard Operating Procedures (SOP)",
+        "Google Workspace Integrations",        
         "Process Optimization" 
     ],
 };
