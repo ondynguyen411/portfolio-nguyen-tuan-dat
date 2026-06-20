@@ -50,8 +50,9 @@ const projectsData = [
         contribution: "Developed a 'Zero Human Intervention' background system that extracts schedule data, syncs directly to operators' Google Calendars, and triggers automated email alerts.",
         result: "Completely eliminated manual tracking, prevented late shifts, and established a foundation for an Analytics Dashboard to track room fill rates and individual performance.",
         skills: ["Workflow Automation", "Data Standardization", "API Integration", "Process Optimization"],
-        link: "", 
-        buttonText: ""
+        // ADD THESE TWO LINES:
+        link: `${import.meta.env.BASE_URL}documents/OP_SHIFT_Presentation.pdf`, 
+        buttonText: "View Presentation"
     },
     {
         title: "Project 'Bep Viet' E-commerce Website",
