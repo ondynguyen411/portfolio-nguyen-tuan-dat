@@ -17,7 +17,7 @@ const experienceData = [
     },
     {
         title: "E-commerce Store Owner & Operator",
-        company: `"Man Cua Thanh Thuy" Store`,
+        company: `Thanh Thúy Bedding store`,
         time: "04/2026 - Present",
         responsibilities: [
             "Manage end-to-end digital storefront operations, gaining practical expertise in seller mechanics and platform algorithms.",
